@@ -1,0 +1,7 @@
+C:\Users\zahee\MyWebApp\bin\Release\net8.0\publish\MyWebApp.exe
+C:\Users\zahee\MyWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\zahee\MyWebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\zahee\MyWebApp\bin\Release\net8.0\publish\MyWebApp.dll
+C:\Users\zahee\MyWebApp\bin\Release\net8.0\publish\MyWebApp.deps.json
+C:\Users\zahee\MyWebApp\bin\Release\net8.0\publish\MyWebApp.runtimeconfig.json
+C:\Users\zahee\MyWebApp\bin\Release\net8.0\publish\MyWebApp.pdb
